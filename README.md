@@ -4,7 +4,7 @@
 
 - [ ] The `time_function` decorator isn't outputting anything.
 - [ ] Dynamically list out all available video presets based on the files in the config directory.
-- [ ] Explore why the timestamp of compressed videos isn't displaying correctly when sent to iPhone via AirDrop.
+- [ ] Explore why the timestamp of compressed videos sometimes doesn't display correctly when sent to iPhone via AirDrop.
 
 ### Usage
 
